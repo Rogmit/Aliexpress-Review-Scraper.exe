@@ -10,6 +10,7 @@
 <br><br>
 
 `🖥️ Windows 10/11 x64 [ ALL VERSIONS SUPPORTED ]`
+<br>
 This lightweight yet powerful AliExpress review scraper allows you to instantly grab real customer reviews — including text, ratings, and dates.
 It really helps you analyze which products are trending and worth selling, making it easier to list winning products on your dropshipping website. It saves time, increases your sales, and makes product research much faster.
  
