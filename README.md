@@ -9,12 +9,7 @@
 ⚡ **Aliexpress Review Scraper!** [Click here](https://scraper.mysellauth.com) to buy it!
 <br><br>
 
-<div id="preview">
-  <iframe width="1000" height="562" src="https://www.youtube.com/embed/ZwJqXqIDs0o" 
-    title="YouTube video preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-    encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-  </iframe>
-</div>
+[![Watch the video](https://media.discordapp.net/attachments/986659530563797023/1375123265512542238/Untitled-1.png?ex=68308ad7&is=682f3957&hm=417daad04ee036a9e6a85ecb21f7d7ed38a55801dc779eb136a523ff8e68a5d2&=&format=webp&quality=lossless&width=1376&height=958)](https://youtu.be/ZwJqXqIDs0o)
 
 🖥️ `Windows 10/11 x64 [ ALL VERSIONS SUPPORTED ]`
 <br>
