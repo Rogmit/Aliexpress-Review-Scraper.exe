@@ -25,6 +25,3 @@ It really helps you analyze which products are trending and worth selling, makin
 - [x] No coding or setup needed — fast, simple, and beginner friendly
 <br />
  
- <div id="preview"></div>
- 
- <img src="https://media.discordapp.net/attachments/986659530563797023/1375123265512542238/Untitled-1.png?ex=68308ad7&is=682f3957&hm=417daad04ee036a9e6a85ecb21f7d7ed38a55801dc779eb136a523ff8e68a5d2&=&format=webp&quality=lossless&width=1376&height=958" width="1000" height="500">
